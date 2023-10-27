@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="btn_color">#01579b</color>
+    <color name="color_blueA700">#2962ff</color>
+    <color name="color_blue700">#1565c0</color>
+    <color name="color_blue400">#42a5f5</color>
+    <color name="color_blue900">#0d47a1</color>
+    <color name="color_LightBlueA100">#80d8ff</color>
+    <color name="color_LightBlue700">#0288d1</color>
+    <color name="color_LightBlue200">#81d4fa</color>
+    <color name="color_LightBlue50">#e1f5fe</color>
+</resources>

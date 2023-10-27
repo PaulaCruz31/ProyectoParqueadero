@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183085453137",
+    "project_id": "parqueadero-henry-paula",
+    "storage_bucket": "parqueadero-henry-paula.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183085453137:android:8284ccf19e6a7f3b0f8d70",
+        "android_client_info": {
+          "package_name": "com.example.parqueadero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAE52AZUe5ZtKwI9elzwoNYZlImsmuuEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
